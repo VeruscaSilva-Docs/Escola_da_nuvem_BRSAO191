@@ -1,68 +1,38 @@
-📘 Atividade de Programação em Python
+#📘 Atividade de Programação em Python
 💡 Descrição
 Este projeto contém 4 pequenos programas desenvolvidos em Python para praticar conceitos básicos de programação como saída de dados, variáveis, operadores aritméticos e exibição de resultados.
 
-📂 Exercícios
-1. Programa de Saudação
+#📂 Exercícios
+##1. Programa de Saudação
 Exibe uma mensagem simples na tela:
-
-python
-Copiar
-Editar
 print("Olá, mundo!")
-2. Calculadora de Soma
+
+##2. Calculadora de Soma
 Soma dois números pré-definidos e exibe o resultado:
-
 numero1 = 12
-
 numero2 = 14
-
-python
-Copiar
-Editar
 soma = numero1 + numero2
 print("A soma de", numero1, "e", numero2, "é:", soma)
-3. Calculadora de Volume
+
+##3. Calculadora de Volume
 Calcula o volume de uma caixa retangular com dimensões definidas:
-
 comprimento = 5
-
 largura = 3
-
 altura = 2
-
-python
-Copiar
-Editar
 volume = comprimento * largura * altura
 print("O volume da caixa é:", volume, "m³")
-4. Calculadora de Preço Total
+
+##4. Calculadora de Preço Total
 Calcula o preço total de uma compra com base nas informações:
-
 Nome do produto: "Cadeira Infantil"
-
 Preço unitário: R$ 12.40
-
 Quantidade: 3
-
-python
-Copiar
-Editar
 preco_total = preco_unitario * quantidade
 print("Preço total: R$ {:.2f}".format(preco_total))
-🛠️ Como executar
-Certifique-se de ter o Python instalado.
 
-Salve cada trecho de código em arquivos .py separados (ex: ex1_saudacao.py, ex2_soma.py, etc.).
 
-Execute com:
-
-bash
-Copiar
-Editar
-python nome_do_arquivo.py
 📄 Requisitos
 Python 3.x
 
-📚 Autor
+#📚 Autor
 Atividade prática de programação básica para iniciantes em Python.
