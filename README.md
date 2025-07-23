@@ -3,7 +3,8 @@
 Este projeto contém 4 pequenos programas desenvolvidos em Python para praticar conceitos básicos de programação como saída de dados, variáveis, operadores aritméticos e exibição de resultados.
 
 <h1>📂 Exercícios</h1>
-1. Programa de Saudação
+
+<h1>1. Programa de Saudação</h1>
 Exibe uma mensagem simples na tela:
 print("Olá, mundo!")
 
