@@ -4,36 +4,26 @@ Este projeto contém 4 pequenos programas desenvolvidos em Python para praticar 
 
 <h1>📂 Exercícios</h1>
 
-<h1>1. Programa de Saudação</h1>
-Exibe uma mensagem simples na tela:
-print("Olá, mundo!")
-
-<h1>2. Calculadora de Soma</h1>
-Soma dois números pré-definidos e exibe o resultado:
-numero1 = 12
-numero2 = 14
-soma = numero1 + numero2
-print("A soma de", numero1, "e", numero2, "é:", soma)
-
-<h1>3. Calculadora de Volume</h1>
-Calcula o volume de uma caixa retangular com dimensões definidas:
-comprimento = 5
-largura = 3
-altura = 2
-volume = comprimento * largura * altura
-print("O volume da caixa é:", volume, "m³")
-
-<h1>4. Calculadora de Preço Total</h1>
-Calcula o preço total de uma compra com base nas informações:
-Nome do produto: "Cadeira Infantil"
-Preço unitário: R$ 12.40
-Quantidade: 3
-preco_total = preco_unitario * quantidade
-print("Preço total: R$ {:.2f}".format(preco_total))
+<h1>1. ATIVIDADE 1 PROGRAMAS INICIAS </h1>
+Saudação / Calculadora de Soma / Calculadora de Volume / Calculadora de Preço Total /
 
 
-📄 Requisitos
-Python 3.x
+<h1>2. ATIVIDADE 2 </h1>
+
+
+<h1>3. ATIVIDADE 3 </h1>
+
+
+<h1>4. ATIVIDADE 4 </h1>
+
+
+<h1>5. ATIVIDADE 5 </h1>
+
+
+<h1>6. ATIVIDADE 6 </h1>
+ programa que gera uma senha aleatória/ programa que gera um perfil de usuário aleatório/ programa que consulte informações de endereço /
+ programa que consulte a cotação atual de uma moeda estrangeira
+
 
 <h1>📚 Autor</h1>
-Atividade prática de programação básica para iniciantes em Python.
+Atividade prática de programação básica para iniciantes em Python do curso escola da nuvem
